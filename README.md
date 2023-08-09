@@ -47,8 +47,8 @@ Trong loạt bài này, chúng ta sẽ xem qua thiết kế cơ sở dữ liệu
 - Phần 4: [States and Transitions](./Part_4_States_And_Transitions.md)
 - Phần 5: [Actions and Activities](./Part_5_Actions_And_Activities.md)
 - Phần 6: [Groups and Targets](./Part_6_Groups_And_Targets.md)
-- Phần 7: Request Actions
-- Phần 8: Complete Schema and Shortcomings
+- Phần 7: [Request Actions](./Part_7_Request_Actions.md)
+- Phần 8: [Complete Schema and Shortcomings](./Part_8_Complete_Schema_And_Shortcomings.md)
 
 Đây không phải là thiết kế duy nhất có thể triển khai Workflow và nó đã được đơn giản hóa từ thiết kế được triển khai thực tế của chúng tôi. Nhưng tôi tin rằng việc đưa các ý tưởng thiết kế của mình ra giấy (có thể hiểu như vậy) sẽ giúp cả tôi hiểu rõ hơn về thiết kế của mình và hy vọng rằng bất kỳ DBA mới chớm nở nào khác ngoài đó khi họ đang cố gắng thiết kế cơ sở dữ liệu cho các vấn đề không tầm thường của riêng họ.
 
